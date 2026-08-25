@@ -46,9 +46,9 @@ const [vol24, vol30d, delivery, chains] = await Promise.all([
   getStat("chains", 720),
 ]);
 
-const messages24h = num(vol24, ["count", "total", "messages", "volume"]);
-const messages30d = num(vol30d, ["count", "total", "messages", "volume"]);
-const avgDelivery = num(delivery, ["average", "avg", "averageDeliveryTime", "avgDeliveryTime", "mean"]);
+const messages24h = num(vol24, ["total_messages", "count", "total"]);
+const messages30d = num(vol30d, ["total_messages", "count", "total"]);
+const avgDelivery = num(delivery, ["avg_delivery_time", "average", "avg"]);
 const activeChains = Array.isArray(chains)
   ? chains.length
   : num(chains, ["count", "chains", "total"]);

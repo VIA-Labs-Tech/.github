@@ -26,7 +26,13 @@ VIA is a cross-chain message protocol. A transfer is submitted on a source chain
 ## 📊 Network Stats
 
 <!-- STATS:START -->
-_Stats update automatically every hour._
+
+| 📨 Messages (24h) | 📈 Messages (30d) | ⚡ Avg delivery | ⛓️ Active chains |
+|:---:|:---:|:---:|:---:|
+| **11** | **104** | **135s** | **5** |
+
+<sub>Live from [VIA Scan](https://scan.vialabs.tech) · Last updated: 2026-08-25 13:35 UTC</sub>
+
 <!-- STATS:END -->
 
 ## 🔗 Ecosystem
