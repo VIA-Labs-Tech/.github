@@ -14,7 +14,7 @@ Bridge, swap, and connect Web2 to Web3.
 [![VIA Scan](https://img.shields.io/badge/Explorer-VIA%20Scan-1E2029?style=for-the-badge&logo=googleanalytics&logoColor=00E5E5)](https://scan.vialabs.tech)
 
 [![X](https://img.shields.io/badge/Follow-@VIA__Labs-0F1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VIA_Labs)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bTQY3ZWhEN)
 
 </div>
 
