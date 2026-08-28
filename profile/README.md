@@ -10,7 +10,7 @@ Bridge, swap, and connect Web2 to Web3.
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-vialabs.tech-00E5E5?style=for-the-badge&logo=googlechrome&logoColor=0F1117)](https://vialabs.tech)
-[![Docs](https://img.shields.io/badge/Docs-Read-1E2029?style=for-the-badge&logo=gitbook&logoColor=00E5E5)](https://docs.vialabs.tech)
+[![Docs](https://img.shields.io/badge/Docs-Read-1E2029?style=for-the-badge&logo=gitbook&logoColor=00E5E5)](https://developer.vialabs.tech/)
 [![VIA Scan](https://img.shields.io/badge/Explorer-VIA%20Scan-1E2029?style=for-the-badge&logo=googleanalytics&logoColor=00E5E5)](https://scan.vialabs.tech)
 
 [![X](https://img.shields.io/badge/Follow-@VIA__Labs-0F1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VIA_Labs)
@@ -39,9 +39,8 @@ VIA is universal cross-chain infrastructure: smart contracts on any chain talkin
 | | |
 |---|---|
 | 🌐 **Website** | [vialabs.tech](https://vialabs.tech) |
-| 📖 **Documentation** | [docs.vialabs.tech](https://docs.vialabs.tech) |
+| 📖 **Documentation** | [developer.vialabs.tech](https://developer.vialabs.tech/) |
 | 🔍 **VIA Scan** | [scan.vialabs.tech](https://scan.vialabs.tech) |
-| 📜 **Contracts** | [github.com/VIALabs-io/contracts](https://github.com/VIALabs-io/contracts) |
 | 💬 **Discord** | [Join the community](https://discord.gg/YOUR_INVITE_CODE) |
 | 🐦 **X / Twitter** | [@VIA_Labs](https://x.com/VIA_Labs) |
 
