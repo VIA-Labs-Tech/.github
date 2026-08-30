@@ -5,16 +5,16 @@
       <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
     </circle>
     <text x="48" y="41" font-size="14" font-weight="700" letter-spacing="2" fill="#EFEFF2">VIA NETWORK</text>
-    <text x="810" y="41" text-anchor="end" font-size="11" fill="#4A4F5E">testnet · updated 2026-08-29 21:45 UTC</text>
+    <text x="810" y="41" text-anchor="end" font-size="11" fill="#4A4F5E">testnet · updated 2026-08-30 00:22 UTC</text>
   </g>
   
     <g text-anchor="middle" font-family="-apple-system, 'Segoe UI', Ubuntu, Roboto, sans-serif">
-      <text x="84" y="96" font-size="30" font-weight="700" fill="#00E5E5">10</text>
+      <text x="84" y="96" font-size="30" font-weight="700" fill="#00E5E5">12</text>
       <text x="84" y="124" font-size="11" font-weight="600" letter-spacing="1.5" fill="#4A4F5E">MESSAGES (24H)</text>
     </g>
     
     <g text-anchor="middle" font-family="-apple-system, 'Segoe UI', Ubuntu, Roboto, sans-serif">
-      <text x="252" y="96" font-size="30" font-weight="700" fill="#00E5E5">133</text>
+      <text x="252" y="96" font-size="30" font-weight="700" fill="#00E5E5">135</text>
       <text x="252" y="124" font-size="11" font-weight="600" letter-spacing="1.5" fill="#4A4F5E">MESSAGES (30D)</text>
     </g>
     <line x1="168" y1="70" x2="168" y2="130" stroke="#1E2029" stroke-width="1"/>
@@ -24,7 +24,7 @@
     </g>
     <line x1="336" y1="70" x2="336" y2="130" stroke="#1E2029" stroke-width="1"/>
     <g text-anchor="middle" font-family="-apple-system, 'Segoe UI', Ubuntu, Roboto, sans-serif">
-      <text x="588" y="96" font-size="30" font-weight="700" fill="#34D399">100%</text>
+      <text x="588" y="96" font-size="30" font-weight="700" fill="#34D399">99%</text>
       <text x="588" y="124" font-size="11" font-weight="600" letter-spacing="1.5" fill="#4A4F5E">SUCCESS RATE</text>
     </g>
     <line x1="504" y1="70" x2="504" y2="130" stroke="#1E2029" stroke-width="1"/>
